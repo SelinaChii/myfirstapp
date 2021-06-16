@@ -23,7 +23,7 @@ shinyUI(fluidPage(
                               min = 1,
                               max = 50,
                               value = c(5,30),
-                              width='400px'
+                              width='300px'
                   )
                 ),
                 
